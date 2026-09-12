@@ -1,0 +1,6 @@
+{
+  "name": "Pet Gallery Bhubaneswar",
+  "description": "Pet Gallery, near Mahaveer Sweets, Naya Bazaar, Kataka, Odisha 753004 — discover pet moments, local experiences, verified reviews, and premium pet care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
